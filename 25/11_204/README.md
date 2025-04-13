@@ -117,9 +117,14 @@ Visit the app in your browser at [http://127.0.0.1:5000/](http://127.0.0.1:5000/
 
 - **Team No:** 11  
 - **Course:** EE363 – Machine Learning for Engineers  
-- **Roll Number (Last 3 Digits):** 204
+- **Roll Number (Last 3 Digits):** 522204 MATTE BABI SNEHITH KUMAR(TEAM LEAD),522247 THIRUMALESH UPPARA,522106 ARADI INDRA KUMAR,522238 SLN SWAMY ,522149 KHUSHAL
+
+
 
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
 Video link:
+
+
+
 https://drive.google.com/file/d/1nBCN-WwMf0GaRWh8786dTDX6URa8MeGb/view?usp=sharing
