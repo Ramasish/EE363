@@ -1,7 +1,5 @@
 Segmentation using DeepLabV3+ with pretrained resnet50v2 model
 Dataset
-- **Name**: EuroSAT
-- **Source**: [EuroSAT Dataset](https://github.com/phelber/EuroSAT)
 - **Type**: RGB Sentinel-2 satellite images
 - **Classes**: Includes land cover categories such as Forest, Residential, Pasture, River, and more.
 
@@ -62,6 +60,7 @@ Notes for New Visitors
 
 Land cover classification with eurosat dataset 
 # Land Cover Classification with EuroSAT Dataset 🌍🛰️
+Actually we trained 7 models but we shown and ran only one model due to time constraints and that one model is convNext which is latest model than any other model that is there in this project
 
 This project performs land cover classification using the [EuroSAT RGB dataset](https://www.kaggle.com/datasets/nilesh789/eurosat-rgb), which contains satellite images grouped into various land cover categories.
 
