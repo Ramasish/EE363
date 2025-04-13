@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Simple Shell Script to Clone a Public GitHub Repository
+# Simple Shell Script to Clone a Fixed Public GitHub Repository
 
-# Prompt user to enter the GitHub repository URL
-read -p "Enter the public GitHub repository URL: " REPO_URL
+# Fixed GitHub repository URL
+REPO_URL="https://github.com/Dheeraj070/RAG-chatbot.git"
 
 # Extract the repository name from the URL
 REPO_NAME=$(basename "$REPO_URL" .git)
@@ -25,4 +25,3 @@ else
     echo "❌ Failed to clone repository."
     exit 1
 fi
-
