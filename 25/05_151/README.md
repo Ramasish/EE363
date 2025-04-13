@@ -142,7 +142,8 @@ npm run dev
 
 ## ▶️ Demo Video
 
-📺 📺 [Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1uqxKuo9SY2rbLNHu3BP1gIfMuL1uUTNT/view?usp=drive_link)
+📺 📺 [Watch the Demo Video on Google Drive]
+       (https://drive.google.com/file/d/1uqxKuo9SY2rbLNHu3BP1gIfMuL1uUTNT/view?usp=drive_link)
 
 ---
 
