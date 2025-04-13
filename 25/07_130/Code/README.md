@@ -1,3 +1,4 @@
+Me and my batch mates had made a youtube video where there is the full explanation and this is the [link](https://youtu.be/_AzU0--vYmM).
 Segmentation using DeepLabV3+ with pretrained resnet50v2 model
 Dataset
 - **Type**: RGB Sentinel-2 satellite images
