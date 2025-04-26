@@ -1,4 +1,12 @@
-Attention-based U-Net for Land Cover Segmentation
+Team Members details :
+1. Ramasish Parida (522232) (Leader)
+2. Kannikanti Pardha Saradhi (522145)
+3. Abhishek Singh (522101)
+4. Vipul Yadav (522255)
+5. Rekulapally Sai Kumar (522234)
+6. Muddisetti Gnaneswara (522208)
+
+Attention-based U-Net for Land Cover Segmentation and Classification
 
 This repository contains an implementation of an Attention-based U-Net model designed for semantic segmentation of various landforms from satellite imagery.
 
