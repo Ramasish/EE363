@@ -86,7 +86,6 @@ This is a full-stack RAG (Retrieval-Augmented Generation) chatbot designed for a
 ## 🧰 Prerequisites
 
 - Python 3.9+
-- Node.js 18+
 - npm or yarn
 - Git (optional)
 
@@ -133,10 +132,12 @@ npm run dev
 
 ## ✅ Usage
 
-- Log in or register.
-- Upload academic PDFs in chat.
-- Ask academic questions.
-- Admins can monitor sessions and chats.
+- Log in or register to get started.
+- Use the chatbot for academic learning and general queries.
+- Navigate to the RAG PDF Vector Chatbot using the top navigation bar.
+- Upload academic PDFs in the chat interface.
+- After uploading a PDF, ask queries specifically related to the uploaded PDF topics.
+- Admins can monitor user sessions and chat activities.
 
 ---
 
