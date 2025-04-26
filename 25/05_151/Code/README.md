@@ -106,13 +106,7 @@ Ensure `.env` contains:
 GEMINI_API_KEY=your_google_generative_ai_key
 ```
 
-Start the backend:
-
-```bash
-python App.py
-```
-
-Or launch the full app:
+Launch the full app:
 
 ```bash
 python main.py
@@ -120,15 +114,6 @@ python main.py
 
 ---
 
-## 🖼️ Frontend Setup (React + Vite)
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
 
 ## ✅ Usage
 
