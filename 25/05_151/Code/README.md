@@ -149,8 +149,8 @@ npm run dev
 
 ## 🧪 Deployment Notes
 
-- Backend: Render, Railway, Heroku
-- Frontend: Vercel, Netlify
+- Backend: Flask
+- Frontend: React
 - Use `.env` and CORS properly in production
 
 ---
