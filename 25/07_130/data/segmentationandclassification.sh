@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL of the public GitHub repository
-REPO_URL="https://github.com/jaiganesh5555/tree/main/25/07_130/Code"
+REPO_URL="https://github.com/jaiganesh5555/EE363/tree/main/25/07_130"
 
 # Clone the repository
 git clone "$REPO_URL"
